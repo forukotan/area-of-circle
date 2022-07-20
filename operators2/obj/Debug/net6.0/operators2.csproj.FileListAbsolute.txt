@@ -1,0 +1,15 @@
+C:\Users\foruk\source\repos\operators2\operators2\obj\Debug\net6.0\operators2.csproj.AssemblyReference.cache
+C:\Users\foruk\source\repos\operators2\operators2\obj\Debug\net6.0\operators2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foruk\source\repos\operators2\operators2\obj\Debug\net6.0\operators2.AssemblyInfoInputs.cache
+C:\Users\foruk\source\repos\operators2\operators2\obj\Debug\net6.0\operators2.AssemblyInfo.cs
+C:\Users\foruk\source\repos\operators2\operators2\obj\Debug\net6.0\operators2.csproj.CoreCompileInputs.cache
+C:\Users\foruk\source\repos\operators2\operators2\bin\Debug\net6.0\operators2.exe
+C:\Users\foruk\source\repos\operators2\operators2\bin\Debug\net6.0\operators2.deps.json
+C:\Users\foruk\source\repos\operators2\operators2\bin\Debug\net6.0\operators2.runtimeconfig.json
+C:\Users\foruk\source\repos\operators2\operators2\bin\Debug\net6.0\operators2.dll
+C:\Users\foruk\source\repos\operators2\operators2\bin\Debug\net6.0\operators2.pdb
+C:\Users\foruk\source\repos\operators2\operators2\obj\Debug\net6.0\operators2.dll
+C:\Users\foruk\source\repos\operators2\operators2\obj\Debug\net6.0\refint\operators2.dll
+C:\Users\foruk\source\repos\operators2\operators2\obj\Debug\net6.0\operators2.pdb
+C:\Users\foruk\source\repos\operators2\operators2\obj\Debug\net6.0\operators2.genruntimeconfig.cache
+C:\Users\foruk\source\repos\operators2\operators2\obj\Debug\net6.0\ref\operators2.dll
